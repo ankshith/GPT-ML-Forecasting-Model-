@@ -32,3 +32,21 @@
 
 
 ![data](https://github.com/user-attachments/assets/8735d731-9d2e-4f3c-baca-9823bc19023b)
+
+
+### Preprocessing
+
+1. **Filter Events by Category**
+   - The first step involves filtering the data based on the `event_category` column. Specifically, we focus on separating purchase events from other events like `view` and `remove_cart`. This ensures that the data used for training the model is relevant to purchase behavior, which is typically the most significant for predictive modeling in e-commerce.
+
+2. **Handle Null Values**
+   - Next, we address any missing data within the dataset. It's crucial to check each column for null values, as missing data can negatively impact model performance. If null values are found, we replace them with the maximum value in the column or the most frequently occurring value (mode). This imputation strategy helps in maintaining the integrity of the data while preparing it for modeling.
+
+3. **Convert Event Time to Event Date**
+   - The `event_time` column, which likely contains timestamp data, is then converted into a more general event date format. This transformation simplifies the data and allows for easier analysis of trends over time, especially if the model will consider temporal patterns.
+
+4. **Separate Brands and Products**
+   - The dataset contains information about various brands and their products. In this step, we separate each brand and its associated products into distinct groups. This segmentation allows for more focused analysis and model training, where each brand-product combination can be individually evaluated and modeled. This approach is beneficial in scenarios where brand-specific trends or behaviors are of interest.
+
+5. **Sampling the Data**
+   - Finally, to optimize the preprocessing and evaluation process, only 10% of the original dataset is utilized. This sampling strategy is employed to manage computational resources effectively and to ensure that the preprocessing steps are applied efficiently without overwhelming the system. This sample should be representative of the entire dataset to ensure that the models trained on this data can generalize well to the full dataset.
