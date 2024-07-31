@@ -3,8 +3,17 @@
 
 
 
+| **Category**        | **Details**                                                                                               |
+|---------------------|-----------------------------------------------------------------------------------------------------------|
+| **Source**          | [Rees46 Open CDP](https://rees46.com/en/open-cdp)                                                         |
+| **Data Size**       | 14 GB                                                                                                     |
+| **Rows**            | 20 million                                                                                                |
+| **Columns**         | 9                                                                                                         |
+| **Data Representation** | Each row represents an event                                                                           |
+| **Dataset Features** | Event_time, Event_type, Product_id, Category_id, Category_code, Brand, Price, User_id, User_Transaction  |
+| **Period Covered**  | October 2019 to December 2019                                                                             |
+| **Data Description** | Dataset contains behavior data from a large multi-category online store. All events are related to products and users. Each event represents a many-to-many relation between products and users. |
 
->                               DETAILS ABOUT THE DATA:
 
 
 
