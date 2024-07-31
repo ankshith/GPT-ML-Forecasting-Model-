@@ -51,7 +51,8 @@
 5. **Sampling the Data**
    - Finally, to optimize the preprocessing and evaluation process, only 10% of the original dataset is utilized. This sampling strategy is employed to manage computational resources effectively and to ensure that the preprocessing steps are applied efficiently without overwhelming the system. This sample should be representative of the entire dataset to ensure that the models trained on this data can generalize well to the full dataset.
 <br>
-<br>
+<br
+
 ### Output
 
 <img width="1253" alt="forecasted" src="https://github.com/user-attachments/assets/67198611-11fd-44e9-8083-5079b38ff384">
