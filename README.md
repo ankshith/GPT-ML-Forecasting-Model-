@@ -53,8 +53,6 @@
 <br>
 <br
 
-If you want to include a heading for your output section, you could use something like:
-
 ---
 
 ### Output
@@ -66,5 +64,3 @@ If you want to include a heading for your output section, you could use somethin
 <img width="1271" alt="viewer" src="https://github.com/user-attachments/assets/623bd23c-5bf1-4210-ada1-68799cf1df38">
 
 ---
-
-Feel free to adjust the headings to better fit your content or style!
