@@ -14,7 +14,10 @@
 
 
 
-![workflow](https://github.com/user-attachments/assets/359903a3-7a75-47f7-9429-3a8d36ed1260)
+https://github.com/user-attachments/assets/aa3b70ad-6d14-4372-a943-089a6a399f6e
+
+
+
 
 
 ### Dataset
@@ -33,7 +36,7 @@
 
 
 
-![data](https://github.com/user-attachments/assets/8735d731-9d2e-4f3c-baca-9823bc19023b)
+https://github.com/user-attachments/assets/cd7e91bf-eddc-4326-affa-a5cb93169ab1
 
 
 ### Preprocessing
