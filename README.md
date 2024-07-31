@@ -53,9 +53,9 @@
 <br>
 <br
 
-#### Output
+### Output
 
-<img width="1253" alt="forecasted" src="https://github.com/user-attachments/assets/67198611-11fd-44e9-8083-5079b38ff384">
+- <img width="1253" alt="forecasted" src="https://github.com/user-attachments/assets/67198611-11fd-44e9-8083-5079b38ff384">
 <br>
 <br>
-<img width="1271" alt="viewer" src="https://github.com/user-attachments/assets/623bd23c-5bf1-4210-ada1-68799cf1df38">
+- <img width="1271" alt="viewer" src="https://github.com/user-attachments/assets/623bd23c-5bf1-4210-ada1-68799cf1df38">
