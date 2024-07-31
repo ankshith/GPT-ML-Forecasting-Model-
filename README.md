@@ -1,4 +1,3 @@
-### Workflow
 
 | **Step**                       | **Description**                                                                                                                                                           |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,11 +11,11 @@
 | **Output**                     | Display the results with visualization after selecting the best model based on the scores of the metrics.                                                                  |
 
 
+### Workflow
 
 **![workflow](https://github.com/user-attachments/assets/359903a3-7a75-47f7-9429-3a8d36ed1260)**
 
 
-### Dataset
 
 | **Category**        | **Details**                                                                                               |
 |---------------------|-----------------------------------------------------------------------------------------------------------|
@@ -30,7 +29,7 @@
 | **Data Description** | Dataset contains behavior data from a large multi-category online store. All events are related to products and users. Each event represents a many-to-many relation between products and users. |
 
 
-
+### Dataset
 
 ![data](https://github.com/user-attachments/assets/8735d731-9d2e-4f3c-baca-9823bc19023b)
 
